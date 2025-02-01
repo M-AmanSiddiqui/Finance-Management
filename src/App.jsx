@@ -30,7 +30,7 @@ function App() {
     <div className="relative min-h-screen flex flex-col items-center p-6 bg-gray-900 text-white" style={{ backgroundImage: `url(${image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="absolute inset-0 bg-black opacity-50"></div>
       
-      <h1 className="text-3xl font-extrabold my-6 text-center relative z-10 shadow-md mt-72">💰 Finance Management App 💰</h1>
+      <h1 className="text-3xl font-extrabold my-6 text-center relative z-10 shadow-md ">💰 Finance Management App 💰</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-2xl text-center relative z-10">
         <div className="p-6 border rounded-lg bg-white bg-opacity-20 shadow-lg">
